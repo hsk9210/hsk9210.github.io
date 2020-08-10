@@ -10,6 +10,10 @@ You can use the [editor on GitHub](https://github.com/hsk9210/hsk9210.github.io/
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 -->
 
+- [x] This is a complete item
+- [ ] This is an incomplete item
+
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
@@ -22,8 +26,6 @@ Syntax highlighted code block
 ### Header 3
 
 <button>0 </button> //이건 적용이 안되지만,
-- [x] This is a complete item
-- [ ] This is an incomplete item
 
 - Bulleted
 - List
