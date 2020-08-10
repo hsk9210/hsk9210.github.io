@@ -1,8 +1,14 @@
 ## 함승균 이력서
 
-You can use the [editor on GitHub](https://github.com/hsk9210/hsk9210.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
+지킬이라는 라이브러리를 사용하여 최소한의 타이핑으로 깔끔한 상황을 적용중입니다.
+한번 레포지토리에 커밋할 때마다 Jekyll이 작동하여 바로 재빌드되어 사이트를 보여주고 있습니다.
+
+
+<!--
+You can use the [editor on GitHub](https://github.com/hsk9210/hsk9210.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+-->
 
 ### Markdown
 
@@ -14,6 +20,8 @@ Syntax highlighted code block
 # Header 1
 ## Header 2
 ### Header 3
+
+<button>0 </button>
 
 - Bulleted
 - List
