@@ -1,7 +1,7 @@
-## 함승균 이력서
+## Full Pre 6 hsk9210 이력서
 
 
-지킬이라는 라이브러리를 사용하여 최소한의 타이핑으로 깔끔한 상황을 적용중입니다.
+지킬이라는 라이브러리를 사용하여 최소한의 타이핑으로 깔끔한 상황을 적용 연습중입니다.
 한번 레포지토리에 커밋할 때마다 Jekyll이 작동하여 바로 재빌드되어 사이트를 보여주고 있습니다.
 
 
@@ -21,7 +21,9 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
-<button>0 </button>
+<button>0 </button> //이건 적용이 안되지만,
+- [x] This is a complete item
+- [ ] This is an incomplete item
 
 - Bulleted
 - List
